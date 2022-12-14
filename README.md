@@ -1,4 +1,5 @@
-### Hi there 👋
+## Hi there 👋
+
 - 🔭 I’m currently working on building a small travel budget web app.
 - 🌱 I’m currently learning **JavaScript ES6**.
 - 👯 I’m looking to collaborate on interesting Ruby projects.
@@ -19,14 +20,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="32" height="32"/>
 </p>
 
+<em>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients.</em>
+<em>Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</em>
+
+
+| <img src="https://github-readme-stats.vercel.app/api?username=malikboux&show_icons=true&theme=buefy" alt="malikbou" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbou&layout=compact&hide=html&theme=buefy" alt="malikbou" /> |
+| ------------- | ------------- |
+
 ## Follow me
 
-- Follow **<a href="https://twitter.com/intent/follow?screen_name=flexbox_">@flexbox_</a> on Twitter**
-- Follow **<a href="https://medium.com/@flexbox">@flexbox</a> on Medium**
-- Follow **<a href="https://www.producthunt.com/@flexbox">@flexbox</a> on Product Hunt**
-- Follow **<a href="https://www.figma.com/@flexbox">@flexbox</a> on Figma**
-- Add **<a href="https://www.linkedin.com/in/david-leuliette">David Leuliette</a> on LinkedIn**
+- Follow **<a href="https://twitter.com/intent/follow?screen_name=malikbouaoudia">@malikbouaoudia</a> on Twitter**
+- Add **<a href="https://www.linkedin.com/in/malikbouaoudia">Malik Bouaoudia</a> on LinkedIn**
 
-<a href="https://github.com/flexbox">
-  <img align="left" src="https://komarev.com/ghpvc/?username=flexbox" alt="flexbox" />
+<a href="https://github.com/malikbou">
+  <img align="left" src="https://komarev.com/ghpvc/?username=malikbou" alt="malikbou" />
 </a>
