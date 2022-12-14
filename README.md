@@ -14,17 +14,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="32" height="32"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="32" height="32"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="32" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg" alt="rails" width="32" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="rails" width="32" height="32"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="rails" width="32" height="32"/>
+
 </p>
 
 <em>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients.</em>
-<em>Feel free to <a href="https://davidl.fr/onboading" target="_blank">contact me</a> if you want to know more about my skills.</em>
+<em>Feel free to <a href="https://malikbouaoudia.com" target="_blank">contact me</a> if you want to know more about my skills.</em>
 
 
-| <img src="https://github-readme-stats.vercel.app/api?username=malikboux&show_icons=true&theme=buefy" alt="malikbou" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbou&layout=compact&hide=html&theme=buefy" alt="malikbou" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=malikbou&show_icons=true&theme=buefy" alt="malikbou" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbou&layout=compact&hide=html&theme=buefy" alt="malikbou" /> |
 | ------------- | ------------- |
 
 ## Follow me
