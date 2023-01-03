@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on building a small travel budget web app.
+- 🔭 I’m currently working on building a better personal health and fitness app.
+- 🤓 I’m currently taking Harvard's CS50 Course to learn more about the fundamentals behind computer science.
 - 🌱 I’m currently learning **JavaScript ES6**.
 - 👯 I’m looking to collaborate on interesting Ruby projects.
 
