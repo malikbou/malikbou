@@ -34,8 +34,6 @@ I'm Malik - a generalist exploring AI, data, and real-world problems.
 | <img src="https://github-readme-stats.vercel.app/api?username=malikbou&show_icons=true&include_all_commits=true&theme=tokyonight" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbou&layout=compact&theme=tokyonight&langs_count=6" height="200"/> |
 | --- | --- |
 
-| <img src="https://streak-stats.demolab.com?user=malikbou&theme=tokyonight&hide_border=true" height="200"/> |
-
 <sub><em>Note: Stats only reflect public GitHub activity and don’t include private client work or university collaborations.</em></sub>  
 
 ---
