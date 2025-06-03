@@ -4,11 +4,12 @@ I'm Malik - a generalist exploring AI, data, and real-world problems
 - 🧠 Interests: AI, fast MVPs, building things that work, and solving problems
 - 🔭 Currently: MSc in CS @ UCL
 - ⏮️ Previously: BSc in Finance & Data Science @ NYU Stern | Data Analysis | AI Consulting
-- 🌱 I’m currently learning **JavaScript ES6**.
 
 ## Tools I use
 
 <p align="left">
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="git" width="32" height="32"/>        
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="git" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="32" height="32"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="32" height="32"/>
