@@ -28,8 +28,15 @@ I'm Malik - a generalist exploring AI, data, and real-world problems
 <em>Feel free to <a href="https://malikbouaoudia.com" target="_blank">contact me</a> if you want to know more about my skills.</em>
 
 New Version
-| <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&theme=tokyonight" alt="malikbou" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbou&layout=compact&hide=html&theme=buefy" alt="malikbou" /> |
-| ------------- | ------------- |
+| <img src="https://github-readme-stats.vercel.app/api?username=malikbou&show_icons=true&theme=buefy&include_all_commits=true" alt="malikbou GitHub stats" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbou&layout=compact&hide=html&theme=buefy" alt="malikbou Top Languages" height="200"/> |
+| --- | --- |
+
+### 🔧 Featured Repositories
+
+[![Minimis – My Personal Repo](https://github-readme-stats.vercel.app/api/pin/?username=malikbou&repo=minimis&theme=buefy)](https://github.com/malikbou/minimis)
+
+[![UCL Team Project – COMP0067](https://github-readme-stats.vercel.app/api/pin/?username=UCLComputerScience&repo=COMP0067_2025_Team4&theme=buefy)](https://github.com/UCLComputerScience/COMP0067_2025_Team4)
+
 
 Old Version
 | <img src="https://github-readme-stats.vercel.app/api?username=malikbou&show_icons=true&theme=buefy" alt="malikbou" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbou&layout=compact&hide=html&theme=buefy" alt="malikbou" /> |
