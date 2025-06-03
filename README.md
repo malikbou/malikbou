@@ -1,9 +1,10 @@
 ## Hi there 👋
+I'm Malik - a generalist exploring AI, data, and real-world problems
 
-- 🔭 I’m currently working on building a personal budgeting app called Budgy.
-- 🤓 I’m currently taking Harvard's CS50 Course to learn more about the fundamentals behind computer science.
+- 🧠 Interests: AI, fast MVPs, building things that work, and solving problems
+- 🔭 Currently: MSc in CS @ UCL
+- ⏮️ Previously: BSc in Finance & Data Science @ NYU Stern | Data Analysis | AI Consulting
 - 🌱 I’m currently learning **JavaScript ES6**.
-- 👯 I’m looking to collaborate on interesting Ruby projects.
 
 ## Tools I use
 
