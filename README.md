@@ -35,7 +35,6 @@ I'm Malik - a generalist exploring AI, data, and real-world problems.
 | --- | --- |
 
 | <img src="https://streak-stats.demolab.com?user=malikbou&theme=tokyonight&hide_border=true" height="200"/> |
-| --- |
 
 <sub><em>Note: Stats only reflect public GitHub activity and don’t include private client work or university collaborations.</em></sub>  
 
