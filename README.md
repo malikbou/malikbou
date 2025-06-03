@@ -27,7 +27,11 @@ I'm Malik - a generalist exploring AI, data, and real-world problems
 <em>Statistics are extracted from my public activity and doesn't reflect completely the work with my clients.</em>
 <em>Feel free to <a href="https://malikbouaoudia.com" target="_blank">contact me</a> if you want to know more about my skills.</em>
 
+New Version
+| <img src="[https://github-readme-stats.vercel.app/api?username=malikbou&show_icons=true&theme=buefy](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&include_all_commits=true&theme=tokyonight)" alt="malikbou" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbou&layout=compact&hide=html&theme=buefy" alt="malikbou" /> |
+| ------------- | ------------- |
 
+Old Version
 | <img src="https://github-readme-stats.vercel.app/api?username=malikbou&show_icons=true&theme=buefy" alt="malikbou" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbou&layout=compact&hide=html&theme=buefy" alt="malikbou" /> |
 | ------------- | ------------- |
 
