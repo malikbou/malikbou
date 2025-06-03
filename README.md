@@ -31,12 +31,8 @@ New Version
 | <img src="https://github-readme-stats.vercel.app/api?username=malikbou&show_icons=true&include_all_commits=true&theme=tokyonight" height="200" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbou&layout=compact&theme=tokyonight" height="200"/> |
 | --- | --- |
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=malikbou&theme=tokyonight)](https://git.io/streak-stats)
-
-[![Minimis](https://github-readme-stats.vercel.app/api/pin/?username=malikbou&repo=minimis&theme=tokyonight)](https://github.com/malikbou/minimis)
-[![UCL Project](https://github-readme-stats.vercel.app/api/pin/?username=UCLComputerScience&repo=COMP0067_2025_Team4&theme=tokyonight)](https://github.com/UCLComputerScience/COMP0067_2025_Team4)
-
-
+| [![GitHub Streak](https://streak-stats.demolab.com?user=malikbou&theme=tokyonight)](https://git.io/streak-stats) |
+| --- |
 
 Old Version
 | <img src="https://github-readme-stats.vercel.app/api?username=malikbou&show_icons=true&theme=buefy" alt="malikbou" />  | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbou&layout=compact&hide=html&theme=buefy" alt="malikbou" /> |
