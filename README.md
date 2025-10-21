@@ -11,9 +11,9 @@ I'm Malik, a Product Manager focused on applied AI, prototyping, and building sy
 ### 🧪 Recent work
 
 - **[Thesis](https://github.com/malikbou/on-premise-slm)** — On-Premise Orchestration of small language models, benchmarking RAG quality, throughput, latency and cost
-- **Minimis** — Local AI education platform built for low-compute classrooms
-- **Khyron** — MVP job board for heavy industries, built with Framer  
-- **Semaj** — Visual portfolio for an interior designer, built with Framer
+- **[Minimis](https://www.malikbouaoudia.com/projects/minimis)** — Local AI education platform built for low-compute classrooms
+- **[Khyron](https://www.malikbouaoudia.com/projects/khyron)** — MVP job board for heavy industries, built with Framer  
+- **[Semaj](https://www.semaj.ch/)** — Visual portfolio for an interior designer, built with Framer
 
 ---
 
