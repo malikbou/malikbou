@@ -24,7 +24,7 @@ Most real-world builds (client or thesis-related) remain private, but I’ll occ
 
 ---
 
-## 🛠️ Tools I use
+### 🛠️ Tools I use
 
 <p align="left">
 
@@ -45,7 +45,7 @@ Most real-world builds (client or thesis-related) remain private, but I’ll occ
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 | <img src="https://github-readme-stats.vercel.app/api?username=malikbou&show_icons=true&include_all_commits=true&theme=tokyonight" height="200"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikbou&layout=compact&theme=tokyonight&langs_count=6" height="200"/> |
 | --- | --- |
