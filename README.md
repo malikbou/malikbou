@@ -1,9 +1,26 @@
 ## Hi there 👋
-I'm Malik - a generalist exploring AI, data, and real-world problems.
 
-- 🧠 **Interests**: AI, fast MVPs, building things that work, and solving hard problems  
-- 🔭 **Currently**: MSc in Computer Science @ UCL  
-- ⏮️ **Previously**: BSc in Finance & Data Science @ NYU Stern | Data Analysis | AI Consulting  
+I'm Malik, a Product Manager focused on applied AI, prototyping, and building systems that solve real problems. I work at the intersection of product and engineering, shipping fast and learning through iteration.
+
+- 📍 Based in London  
+- 🎓 MSc Computer Science @ UCL  
+- ⏮️ Previously: BSc in Finance & Data Science @ NYU Stern · Data Analyst · GenAI Consultant
+
+---
+
+### 🧪 Recent work
+
+- **[Thesis](https://github.com/malikbou/on-premise-slm)** — On-Premise Orchestration of small language models, benchmarking RAG quality, throughput, latency and cost
+- **Minimis** — Local AI education platform built for low-compute classrooms
+- **Khyron** — MVP job board for heavy industries, built with Framer  
+- **Semaj** — Visual portfolio for an interior designer, built with Framer
+
+---
+
+### 📂 Repos you'll find here
+
+This is where I publish experiments, open-source prototypes, and tooling from past work.  
+Most real-world builds (client or thesis-related) remain private, but I’ll occasionally clean up and share public versions.
 
 ---
 
@@ -14,7 +31,6 @@ I'm Malik - a generalist exploring AI, data, and real-world problems.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="git" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="git" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="git" width="64" height="64"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="git" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="git" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" alt="git" width="64" height="64"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="git" width="64" height="64"/>
@@ -38,11 +54,12 @@ I'm Malik - a generalist exploring AI, data, and real-world problems.
 
 ---
 
-## 🌐 Connect with Me
+### 🔗 Elsewhere
 
-- 🐦 [Follow me on Twitter](https://twitter.com/malikbouaoudia)  
-- 💼 [Add me on LinkedIn](https://www.linkedin.com/in/malikbouaoudia)  
-- 🌍 [Visit my website](https://malikbouaoudia.com)
+- [Website](https://www.malikbouaoudia.com)
+- [LinkedIn](https://www.linkedin.com/in/malikbouaoudia)
+- [Twitter](https://twitter.com/malikbouaoudia)
+
 
 <a href="https://github.com/malikbou">
   <img align="left" src="https://komarev.com/ghpvc/?username=malikbou&style=flat-square&color=blue" alt="malikbou GitHub Profile Views"/>
